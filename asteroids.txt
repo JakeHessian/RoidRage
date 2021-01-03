@@ -1,0 +1,106 @@
+easy 479 711 8 8
+easy 123 -15 15 15
+easy 148 -40 15 15
+easy 436 760 12 12
+easy -30 620 20 20
+easy 109 -35 5 5
+easy 553 698 18 18
+easy 212 757 17 17
+easy 790 16 5 5
+easy 116 -40 25 25
+easy 194 703 20 20
+easy 386 -25 7 7
+easy 510 -19 25 25
+easy 239 666 4 4
+easy 10 157 32 32
+easy 688 48 5 5
+easy 259 770 1 1
+easy 827 26 8 8
+easy 881 -40 25 25
+easy 567 -15 11 11
+easy 1019 330 33 33
+easy 163 13 16 16
+easy 119 675 23 23
+easy 572 -31 2 2
+easy 959 209 2 2
+easy 274 46 21 21
+easy 271 693 16 16
+easy 30 601 24 24
+easy 375 695 15 15
+easy 118 738 21 21
+&
+med 138 12 41 41 med
+med 660 37 51 51 med
+med 1015 473 37 37 med
+easy 748 18 33 33 easy
+med 137 719 64 64 med
+easy 287 750 18 18 easy
+easy 471 36 22 22 easy
+easy 104 708 21 21 easy
+med 100 182 55 55 med
+med 1022 569 45 45 med
+med 828 31 54 54 med
+med 863 38 37 37 med
+easy 604 705 5 5 easy
+med 158 30 59 59 med
+med -9 146 57 57 med
+easy 366 12 8 8 easy
+med 236 729 61 61 med
+med 314 32 66 66 med
+med 350 746 49 49 med
+med 703 22 59 59 med
+easy 608 13 14 14 easy
+med 1000 251 35 35 med
+med 248 716 66 66 med
+med 9 83 40 40 med
+easy 615 2 30 30 easy
+$
+hard 640 29 74 74 hard
+hard 569 740 77 77 hard
+hard 981 320 70 70 hard
+hard 574 705 70 70 hard
+hard 648 745 89 89 hard
+hard 15 398 99 99 hard
+hard 511 2 86 86 hard
+hard 70 610 76 76 hard
+hard 443 712 89 89 hard
+hard 837 712 73 73 hard
+hard 519 42 97 97 hard
+hard 545 19 91 91 hard
+hard 831 14 67 67 hard
+hard 902 486 66 66 hard
+hard 566 708 71 71 hard
+hard 709 728 79 79 hard
+hard 99 357 69 69 hard
+hard 1001 699 94 94 hard
+hard 739 733 68 68 hard
+hard 89 53 73 73 hard
+hard 288 705 99 99 hard
+hard 218 741 74 74 hard
+hard 246 41 67 67 hard
+hard 914 678 85 85 hard
+hard 148 737 89 89 hard
+hard 373 41 69 69 hard
+hard 778 725 81 81 hard
+hard 718 13 73 73 hard
+med 531 722 53 53 med
+med 203 744 60 60 med
+med 390 38 33 33 med
+med 846 749 33 33 med
+med 95 465 39 39 med
+med 574 2 39 39 med
+med 90 373 62 62 med
+med 162 746 63 63 med
+med 684 714 50 50 med
+med 108 46 64 64 med
+med 507 33 35 35 med
+med 276 719 49 49 med
+easy 940 653 19 19 easy
+easy 522 35 15 15 easy
+easy 78 218 32 32 easy
+easy 685 30 5 5 easy
+easy 336 738 1 1 easy
+easy 533 733 8 8 easy
+easy 1019 51 16 16 easy
+easy 590 21 30 30 easy
+#
